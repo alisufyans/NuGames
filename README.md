@@ -39,13 +39,13 @@ _Cross the road, grab a samosa, and get back to the university safely. First to 
 <img width="1202" alt="image" src="https://github.com/user-attachments/assets/bf191f43-5112-47e8-a387-e309ac196c5c" />
 
 ##### Ludo Star
-![Ludo Star](Ludo Star.png)
+![Ludo Star](Ludo%20Star.png)
 
 ##### Ping Pong
-![Ping Pong](Ping Pong.png)
+![Ping Pong](Ping%20Pong.png)
 
 ##### Star Ship
-![Star Ship](Star Ship.png)
+![Star Ship](Star%20Ship.png)
 
 
 
