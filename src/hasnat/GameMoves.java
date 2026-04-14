@@ -24,12 +24,6 @@ public class GameMoves extends JPanel implements KeyListener, ActionListener, Mo
             new Color(230, 200, 30),
             new Color(50, 80, 220)
     };
-    private static final Color[] PLAYER_LIGHT = {
-            new Color(255, 120, 120),
-            new Color(100, 220, 120),
-            new Color(255, 240, 100),
-            new Color(120, 150, 255)
-    };
 
     // Game states
     private boolean showWinner = false;

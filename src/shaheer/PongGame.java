@@ -64,8 +64,6 @@ public class PongGame extends JPanel implements ActionListener, KeyListener {
     private static final Color P1_GLOW = new Color(0, 230, 255, 40);
     private static final Color P2_COLOR = new Color(255, 50, 180);      // Magenta/Pink
     private static final Color P2_GLOW = new Color(255, 50, 180, 40);
-    private static final Color BALL_COLOR = Color.WHITE;
-    private static final Color BALL_GLOW = new Color(255, 255, 255, 30);
     private static final Color CENTER_LINE_COLOR = new Color(255, 255, 255, 25);
     private static final Color HUD_COLOR = new Color(255, 255, 255, 180);
     private static final Color SCORE_COLOR = new Color(255, 255, 255, 220);
