@@ -7,6 +7,7 @@ Designed as a learning project for [Industrial Creative Activity Term (ICAT)](ht
 2. Flappy Bird
 3. Ludo Star
 4. Pong Game
+10. [License](#license)
 
 
 #### 🎯 Highlight: Cross to Kacha
@@ -66,6 +67,11 @@ Run the Code
 ## Team Members
 
 - [Mikail Khan](https://github.com/mikailkhan/)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 **Regards,**
 **Shaheer**
