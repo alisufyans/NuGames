@@ -33,9 +33,10 @@ _Cross the road, grab a samosa, and get back to the university safely. First to 
 
 #### Screenshots
 
-##### Cross to Kacha
+##### User Interface
 <img width="901" alt="image" src="https://github.com/user-attachments/assets/486ade10-3660-4904-8f5f-d56d3c384e31" />
 
+##### Cross to Kacha
 <img width="1202" alt="image" src="https://github.com/user-attachments/assets/bf191f43-5112-47e8-a387-e309ac196c5c" />
 
 ##### Ludo Star
@@ -61,8 +62,6 @@ _Cross the road, grab a samosa, and get back to the university safely. First to 
 Navigate to src folder and open Main.java in your Java IDE
 Run the Code
 
-#### 🧑‍💻 Author
-Developed by Shaheer
 
 ## Team Members
 
