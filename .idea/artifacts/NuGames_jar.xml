@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NuGames:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NuGames_jar</output-path>
+    <root id="archive" name="NuGames.jar">
+      <element id="module-output" name="NuGames" />
+    </root>
+  </artifact>
+</component>
