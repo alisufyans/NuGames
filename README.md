@@ -67,6 +67,7 @@ Run the Code
 ## Team Members
 
 - [Mikail Khan](https://github.com/mikailkhan/)
+- [Mirza Shaheer](https://github.com/mirzashaheer4)
 
 
 ## License
@@ -74,4 +75,4 @@ Run the Code
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 **Regards,**
-**Shaheer**
+**Ali Sufyan Shah**
